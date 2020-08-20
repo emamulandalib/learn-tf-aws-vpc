@@ -1,2 +1,2 @@
-# learn-tf-aws-vpc
-A simple project to learn Terraform and AWS VPC
+# Learn Terraform VPC(AWS)
+A simple project to learn Terraform and VPC (AWS)
